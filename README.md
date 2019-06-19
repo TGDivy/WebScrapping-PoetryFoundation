@@ -4,6 +4,11 @@ Extracting all the poems from Poetry Foundation, using Selenium, Beautiful Soup 
 
 The dataset extracted contains the:
 <li>Poem</li>
-*Poem's Title
-*Poet
-*Tags
+<li>Poem's Title</li>
+<li>Poet</li>
+<li>Tags</li>
+
+The dataset was created with intention for Artificial Poem Generation. It could be used for various other NLP tasks like classification, and semantic analysis. I hope, that dataset is helpful!
+
+The prominent tags featured in this dataset are highlighted by this word cloud:
+![WordCloud Tags](https://github.com/TGDivy/WebScrapping-PoetryFoundation/blob/master/wordCloud.png?raw=true)
