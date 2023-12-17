@@ -12,4 +12,4 @@ The dataset was created with intention for Artificial Poem Generation. It could 
 
 The prominent tags featured in this dataset are highlighted by this word cloud:<br>
 <br><br>
-![WordCloud Tags](https://github.com/TGDivy/WebScrapping-PoetryFoundation/blob/master/wordCloud.png?raw=true)
+![WordCloud Tags](wordCloud.png)
